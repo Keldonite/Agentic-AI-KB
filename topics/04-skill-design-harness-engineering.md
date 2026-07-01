@@ -17,6 +17,7 @@ rotting.
 
 ## Entries
 
+- [Tan & Hu, CS153 guest lecture transcript (primary source)](../entries/tan-hu-cs153-lecture-transcript.md) — Tan and Hu's own account, distilled directly from the talk
 - [Anthropic Agent Skills Specification](../entries/anthropic-agent-skills-spec.md) — the source spec
 - [Ling et al., "Agent Skills: A Data-Driven Analysis" (arXiv:2602.08004)](../entries/ling-et-al-agent-skills-analysis.md) — empirical study, 40k+ skills
 - [Bibek Poudel, "The SKILL.md Pattern"](../entries/bibek-poudel-skillmd-pattern.md) — why skills fail to trigger
