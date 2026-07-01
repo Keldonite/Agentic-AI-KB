@@ -16,6 +16,13 @@ timing, and context-budget tradeoffs.
 
 Pending first ingestion sweep.
 
+## Entries
+
+- [Mem0, "Memory vs Context Window for LLM and AI Agents 2026"](../entries/mem0-memory-vs-context-window.md) — benchmark data + Gamage constraint-decay finding
+- [FutureAGI, "Evaluating LLM Context Window Management (2026)"](../entries/futureagi-context-fidelity-eval.md) — context fidelity eval methodology
+- ["Learning Agent-Compatible Context Management for Long-Horizon Tasks" (arXiv:2605.30785)](../entries/adacom-agent-compatible-context.md) — AdaCoM, learned context management
+- [Ranksquire, "LLM Architecture 2026"](../entries/ranksquire-llm-architecture-2026.md) — mechanical grounding for why degradation happens
+
 ## Open questions
 
 - What's the actual failure mode when context gets too full — degraded
