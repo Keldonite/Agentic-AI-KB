@@ -30,7 +30,7 @@ CONTRIBUTING.md
 
 ## Status
 
-Skill-design-harness-engineering topic (04) is populated with 6 entries. Agent-architectures topic (01) is populated with 4 entries. The other five topics — including the newly added security-and-safety (07) — remain empty shells with only seed search terms. Next step is running ingestion sweeps on the remaining topics.
+All 7 topics are populated with a first pass of curated, annotated entries — 33 entries total. Entry breakdown: skill-design-harness-engineering (6), agent-architectures (4), memory-systems (4), tool-use-context-management (4), evals-and-testing (5), deployment-and-observability (5), security-and-safety (6). Next step is repeat ingestion passes as new sources appear, plus running the ingestion skill programmatically rather than driving it manually.
 
 ## License
 
