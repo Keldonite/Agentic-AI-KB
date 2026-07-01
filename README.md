@@ -29,8 +29,8 @@ CONTRIBUTING.md
 
 ## Status
 
-Skeleton stage. Topic lists are seeded with a small number of high-signal sources each; the ingestion skill has not yet been run. Next step is a first ingestion pass per topic.
-
+Skill-design-harness-engineering topic (04) is populated with 6 entries. The other five topics remain empty shells with only seed search terms. Next step is running ingestion sweeps on the remaining topics.
 ## License
 
 CC-BY-4.0 for the curation and annotations. Individual linked sources retain their own licenses — this repo never reproduces source content, only links, summaries in our own words, and structured metadata.
+
